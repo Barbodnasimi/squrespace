@@ -61,4 +61,7 @@ header nav ul li a:hover {
     font-weight: bold;
     transition: background 0.3s ease;
 }
+.login-btn:hover {
+    background-color: #f0c14b;
+}
 /* Hero Section */
