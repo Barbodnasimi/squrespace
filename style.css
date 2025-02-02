@@ -29,7 +29,7 @@ body {
   font-weight: 700;
 }
 
-.header nav ul {
+.nav-lists {
   border: 0.25px solid rgba(255, 255, 255, 1);
   border-radius: 100px;
   padding: 6px 40px;
@@ -39,15 +39,19 @@ body {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-.header nav ul a {
+.nav-links {
   text-decoration: none;
   color: rgba(255, 255, 255, 0.6);
   font-size: 16px;
   transition: color 0.3s ease;
 }
 
-header nav ul li a:hover {
+.nav-links:hover {
   color: #f0c14b;
+}
+
+.lighter {
+  color: rgba(255, 255, 255, 1);
 }
 
 .login-btn {
