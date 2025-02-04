@@ -75,7 +75,7 @@ body {
   justify-content: center;
   align-items: center;
   color: #fff;
-  position: relative;
+  border-radius: 24px;
 }
 
 .hero::before {
@@ -87,6 +87,7 @@ body {
   width: 100%;
   background: rgba(0, 0, 0, 0.5);
   z-index: 1;
+  border-radius: 24px;
 }
 
 .hero-content {
