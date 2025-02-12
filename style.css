@@ -150,6 +150,11 @@ body {
 .search-btn:hover {
   background-color: #f0c14b;
 }
+
+.hero-icon {
+  font-size: 24px;
+  padding: 10px;
+}
 /* Tour Section */
 .tour-section {
   padding: 60px 80px;
