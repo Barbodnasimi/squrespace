@@ -315,6 +315,19 @@ body {
   object-fit: cover;
 }
 
+.icon {
+  color: #fff;
+  background-color: rgba(108, 132, 74, 0.5);
+  border-radius: 8px;
+  align-self: flex-start;
+  margin-top: 10px;
+}
+
+.offers-icon {
+  font-size: 24px;
+  padding: 10px;
+}
+
 /* Packages Section */
 .packages-section {
   padding: 60px 80px;
@@ -748,7 +761,8 @@ body {
   gap: 20px;
 }
 
-.uil {
+.footer-icon {
   font-size: 40px;
   cursor: pointer;
+  padding: 10px;
 }
