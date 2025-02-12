@@ -737,3 +737,13 @@ body {
 .newsletter-button:hover {
   background: #f1f1f1;
 }
+
+.social-icons {
+  display: flex;
+  gap: 20px;
+}
+
+.uil {
+  font-size: 40px;
+  cursor: pointer;
+}
