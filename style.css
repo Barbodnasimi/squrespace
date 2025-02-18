@@ -323,7 +323,7 @@ body {
 .offers-image img {
   width: 628px;
   height: 756px;
-  border-radius: 12px;
+  border-radius: 24px;
   object-fit: cover;
 }
 
