@@ -395,7 +395,7 @@ body {
 
 .card-overlay {
   position: absolute;
-  top: 35px;
+  top: 0;
   left: 0;
   width: 100%;
   display: flex;
