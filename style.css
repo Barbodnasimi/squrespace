@@ -557,6 +557,7 @@ body {
   font-size: 56px;
   font-weight: bold;
   color: rgba(0, 0, 0, 1);
+  max-width: 1024px;
 }
 
 .section-description {
