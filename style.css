@@ -179,21 +179,21 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
-  gap: 155px;
+  gap: 395px;
 }
 
 .tour-title {
-  font-size: 64px;
+  font-size: 56px;
   font-weight: 600;
   margin-bottom: 16px;
   color: #000;
 }
 
 .tour-subtitle {
-  font-size: 20px;
+  font-size: 24px;
   color: #777;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 628px;
 }
 
 .tour-cards {
