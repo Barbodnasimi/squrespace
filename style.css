@@ -429,8 +429,7 @@ body {
   align-items: center;
   position: absolute;
   top: 430px;
-  left: 15px;
-  gap: 38px;
+  left: 24px;
   background-color: rgba(255, 255, 255, 0.1);
   color: rgba(255, 255, 255, 1);
   backdrop-filter: blur(4px);
@@ -633,15 +632,15 @@ body {
 }
 
 .testimonial-text {
-  font-size: 17px;
-  line-height: 2;
+  font-size: 19px;
+  line-height: 25px;
   color: inherit;
   flex-grow: 1;
 }
 
 .testimonial-text-highlight {
   font-size: 20px;
-  line-height: 1.8;
+  line-height: 29px;
   color: inherit;
   flex-grow: 1;
 }
