@@ -589,24 +589,20 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  font-size: 20px;
+  line-height: 25px;
 }
 
-.testimonial-card.highlight {
+.testimonial-card:hover {
   background-color: rgba(151, 170, 125, 1);
   color: #ffffff;
-  flex: 2 1 472px;
   max-width: 472px;
   height: 378px;
   display: flex;
-  font-size: 2px;
   flex-direction: column;
   justify-content: flex-start;
-  margin-top: 0;
-}
-
-.testimonial-card:not(.highlight) {
-  align-self: flex-start;
-  margin-top: auto;
+  font-size: 24px;
+  line-height: 36px;
 }
 
 .testimonial-photo {
@@ -629,20 +625,6 @@ body {
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 10px;
-}
-
-.testimonial-text {
-  font-size: 19px;
-  line-height: 25px;
-  color: inherit;
-  flex-grow: 1;
-}
-
-.testimonial-text-highlight {
-  font-size: 20px;
-  line-height: 29px;
-  color: inherit;
-  flex-grow: 1;
 }
 /* Second-Hero Section  */
 .second-hero-section {
